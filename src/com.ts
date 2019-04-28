@@ -3,7 +3,7 @@
 /**
  * @module
  * @description
- * Module to export all public APIs for event based communication.
+ * Module to export all public APIs for event based communication.  
  */
 
 export * from "./com/advertise";
